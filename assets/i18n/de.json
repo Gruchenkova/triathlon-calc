@@ -1,0 +1,26 @@
+{
+  "title": "Triathlon-Rechner",
+  "text": "Verwenden Sie diesen Triathlon-Rechner, um Ihre Rennzeit oder Ihr Zieltempo zu ermitteln oder damit zu experimentieren.",
+  "stage": "Bühne",
+  "distance": {
+    "description": "Renndistanz festlegen",
+    "sprint": "Sprint",
+    "olympic": "Olympisch",
+    "half": "Halb",
+    "full": "Voll",
+    "ironman": "Ironman",
+    "swim": "Schwimmen",
+    "bike": "Fahrrad",
+    "run": "Laufen"
+  },
+  "time" : {
+    "description1": "Legen Sie die Zielzeit",
+    "or": "oder",
+    "description2": "das Zieltempo fest",
+    "time": "Zeit",
+    "pace": "Tempo"
+  },
+  "result": {
+    "description": "Überprüfen Sie die Ergebnisse"
+  }
+}
