@@ -1,0 +1,26 @@
+{
+  "title": "Triathlon Calculator",
+  "text": "Use this triathlon calculator to determine or experiment with your race time or target pace.",
+  "stage": "Stage",
+  "distance": {
+    "description": "Set race distance",
+    "sprint": "Sprint",
+    "olympic": "Olympic",
+    "half": "Half",
+    "full": "Full",
+    "ironman": "Ironman",
+    "swim": "Swim",
+    "bike": "Bike",
+    "run": "Run"
+  },
+  "time" : {
+    "description1": "Set target time",
+    "or": "or",
+    "description2": "pace",
+    "time": "Time",
+    "pace": "Pace"
+  },
+  "result": {
+    "description": "Review Results"
+  }
+}
